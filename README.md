@@ -25,15 +25,6 @@ This project captures sign language gestures, preprocesses the data, trains a cl
 
 1. Clone the repository:
 
-
-git clone https://github.com/AbhishekKhond005/signwave.git
-cd signwave
-Install dependencies:
-
-## Installation
-
-1. Clone the repository:
-
 ```
 git clone https://github.com/AbhishekKhond005/signwave.git
 cd signwave
