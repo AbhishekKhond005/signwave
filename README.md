@@ -33,3 +33,8 @@ cd signwave
 2. Install dependencies:
 ```
 pip install -r requirements.txt
+```
+
+## Screenshot 
+![Sign Wave Screenshot](Screenshots/screenshot.png)
+
